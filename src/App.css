@@ -14,9 +14,22 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+.App-header > h4 {
+  color: blanchedalmond;
 }
 
 .App-link {
   color: #09d3ac;
+}
+
+.select {
+  min-width: 300px;
+}
+
+.aimage {
+  padding: 10px;
+  border: 2px solid white;
+  margin: 1rem;
 }
